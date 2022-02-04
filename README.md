@@ -1,3 +1,2 @@
-[![Amuritna's GitHub stats](https://github-readme-stats.vercel.app/api?username=amuritna&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amuritna&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github-readme-stats.vercel.app/api?username=amuritna&show_icons=true&theme=dracula)"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amuritna&show_icons=true&theme=dracula" alt="amuritna's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=amuritna&theme=dracula"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amuritna&theme=dracula" /></a> |
+| ------------- | ------------- |
