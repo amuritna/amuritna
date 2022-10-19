@@ -1,1 +1,1 @@
-<a href="https://github-readme-stats.vercel.app/api?username=amuritna&show_icons=true&theme=dracula)"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amuritna&show_icons=true&theme=dracula" alt="amuritna's github stats" /></a>
+
